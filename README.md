@@ -8,9 +8,7 @@
 ## 🏆 Competitive Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/suryaprakashsiddina/)
-
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/prakash_coder)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/suryaprakashsid1)
 
 - Active participant in competitive programming and algorithmic problem solving

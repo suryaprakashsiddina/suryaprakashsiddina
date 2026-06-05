@@ -15,6 +15,19 @@
 
 ---
 
+## 🏅 LeetCode Badges
+
+
+
+<p align="center">
+
+  <img src="assets/badges/50-days.png" width="120" alt="50 Days Badge"/> 
+
+  <img src="assets/badges/100-days.png" width="120" alt="100 Days Badge"/> 
+"/> 
+
+</p>
+
 ## 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suryaprakashsiddina?theme=dark&font=Karma&ext=contest)
